@@ -37,7 +37,7 @@
 ---
 ### Сертификаты
 
-- Нетология: 
+- Нетология: [nl_python.pdf](https://github.com/SoulStalker/SoulStalker/blob/15580a3fae59d822430146dc5c282c0ef5176093/nl_python.pdf)
 - Степик: 
 
 ### ⚙️ GitHub статистика:

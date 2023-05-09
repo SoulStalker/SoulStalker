@@ -8,6 +8,14 @@
 
 Я недавно закончил курс обучениия на Python разработчика, до этого работал в качестве системного администратора.
 В данный момент пишу небольшие проекты у себя на работе и для саморазвития. 
+
+### Что я умею делать:
+
+- Язык программирования Python.
+  + [Диплоный проект](https://github.com/SoulStalker/DM_VKinder)
+  + [Рабочий проект. Бот для отчетов по выручке касс](https://github.com/SoulStalker/set_mate)
+- SQL, SQLAlchemy, PosrgreSQL.
+  + [Итоговая работа по базам данных](https://github.com/SoulStalker/nl_sqla_hw)
 + Сейчас прохожу в Нетологии курс по Django
 + Как со мной связаться: [![Telegram Badge](https://img.shields.io/badge/-SoulStalk3r-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/SoulStalk3r) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:almazpython@gmail.com)
 
@@ -37,8 +45,12 @@
 ---
 ### Сертификаты
 
-- Нетология: [nl_python.pdf](https://github.com/SoulStalker/SoulStalker/blob/15580a3fae59d822430146dc5c282c0ef5176093/nl_python.pdf)
+- Нетология: [Python-разработка для начинающих](https://github.com/SoulStalker/SoulStalker/blob/15580a3fae59d822430146dc5c282c0ef5176093/nl_python.pdf)
 - Степик: 
+  + [Инди-курс программирования на Python](https://github.com/SoulStalker/SoulStalker/blob/b42e00c5d999a7a666f70f4e27b551d229768a4d/py_indie.pdf)
+  + [Поколоение Python: курс для начинающих](https://github.com/SoulStalker/SoulStalker/blob/b42e00c5d999a7a666f70f4e27b551d229768a4d/pygen_0.pdf)
+  + [Поколение Python: курс для продвинутых](https://github.com/SoulStalker/SoulStalker/blob/b42e00c5d999a7a666f70f4e27b551d229768a4d/pygen_1.pdf)
+  + [Проектирование баз данных](https://github.com/SoulStalker/SoulStalker/blob/b42e00c5d999a7a666f70f4e27b551d229768a4d/sql_project.pdf)
 
 ### ⚙️ GitHub статистика:
 

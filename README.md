@@ -12,10 +12,13 @@
 ### Что я умею делать:
 
 - Язык программирования Python.
-  + [Диплоный проект](https://github.com/SoulStalker/DM_VKinder)
+  + [Дипломный проект](https://github.com/SoulStalker/DM_VKinder)
   + [Рабочий проект. Бот для отчетов по выручке касс](https://github.com/SoulStalker/set_mate)
 - SQL, SQLAlchemy, PosrgreSQL.
   + [Итоговая работа по базам данных](https://github.com/SoulStalker/nl_sqla_hw)
+- HTML, CSS.
+  + [Учебный проект по основам HTML](https://github.com/SoulStalker/Houston)
+  + [Итоговая работа по верстке](https://github.com/SoulStalker/noemi_blog)
 + Сейчас прохожу в Нетологии курс по Django
 + Как со мной связаться: [![Telegram Badge](https://img.shields.io/badge/-SoulStalk3r-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/SoulStalk3r) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:almazpython@gmail.com)
 
@@ -39,7 +42,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="python" alt="python" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="postgresql" alt="postgresql" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="django" alt="django" width="40" height="40"/>&nbsp
+  <img src="https://github.com/SoulStalker/SoulStalker/blob/394615a20842390b02dbc63047bfd434bbdb2958/Daco_2081416.png" title="django" alt="django" width="40" height="40"/>&nbsp
 </div>
 
 ---
@@ -66,18 +69,3 @@
 </table>
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=SoulStalker)
-
-<!--
-**SoulStalker/SoulStalker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

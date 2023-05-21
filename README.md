@@ -20,6 +20,7 @@
   + [Учебный проект по основам HTML](https://github.com/SoulStalker/Houston)
   + [Итоговая работа по верстке](https://github.com/SoulStalker/noemi_blog)
 + Сейчас прохожу в Нетологии курс по Django
+  - [Домшние задания по Django](https://github.com/SoulStalker/dj_homework/tree/video)
 + Как со мной связаться: [![Telegram Badge](https://img.shields.io/badge/-SoulStalk3r-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/SoulStalk3r) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:almazpython@gmail.com)
 
 ---

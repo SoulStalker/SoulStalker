@@ -15,6 +15,7 @@
   + [Дипломный проект](https://github.com/SoulStalker/DM_VKinder)
   + [Рабочий проект. Бот для отчетов по выручке касс](https://github.com/SoulStalker/set_mate)
   + [Рабочий проект. Скорость работы кассиров](https://github.com/SoulStalker/RetailSpeedCheck)
+  + [Рабочий проект. Скорость работы кассиров. перенеделан на Django для регулярного пользования](https://github.com/SoulStalker/WebSetSpeed)
 - SQL, SQLAlchemy, PosrgreSQL.
   + [Итоговая работа по базам данных](https://github.com/SoulStalker/nl_sqla_hw)
 - HTML, CSS.

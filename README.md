@@ -24,7 +24,7 @@
 + Django
   - [Домшние задания по Django](https://github.com/SoulStalker/dj_homework/tree/video)
 + Nginx, Gunicorn
-   - Могу запустить Django прокет на хостинге или сервере
+   - Могу запустить Django проект на хостинге или сервере
 + Как со мной связаться: [![Telegram Badge](https://img.shields.io/badge/-SoulStalk3r-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/SoulStalk3r) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:almazpython@gmail.com)
 
 ---
@@ -48,11 +48,12 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="python" alt="python" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="postgresql" alt="postgresql" width="40" height="40"/>&nbsp
   <img src="https://github.com/SoulStalker/SoulStalker/blob/394615a20842390b02dbc63047bfd434bbdb2958/Daco_2081416.png" title="django" alt="django" width="40" height="40"/>&nbsp
+  <img src="https://github.com/SoulStalker/SoulStalker/blob/main/nginx.svg" title="nginx" alt="nginx" width="40" height="40"/>&nbsp
 </div>
 
 ---
 ### Сертификаты
-- Нетология: [Django. Создание функциональных веб-приложений]([nl_django.pdf](https://github.com/SoulStalker/SoulStalker/blob/main/nl_django.pdf))
+- Нетология: [Django. Создание функциональных веб-приложений](https://github.com/SoulStalker/SoulStalker/blob/main/nl_django.pdf)
 - Нетология: [Python-разработка для начинающих](https://github.com/SoulStalker/SoulStalker/blob/15580a3fae59d822430146dc5c282c0ef5176093/nl_python.pdf)
 - Степик: 
   + [Инди-курс программирования на Python](https://github.com/SoulStalker/SoulStalker/blob/b42e00c5d999a7a666f70f4e27b551d229768a4d/py_indie.pdf)

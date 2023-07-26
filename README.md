@@ -21,8 +21,10 @@
 - HTML, CSS.
   + [Учебный проект по основам HTML](https://github.com/SoulStalker/Houston)
   + [Итоговая работа по верстке](https://github.com/SoulStalker/noemi_blog)
-+ Сейчас прохожу в Нетологии курс по Django
++ Django
   - [Домшние задания по Django](https://github.com/SoulStalker/dj_homework/tree/video)
++ Nginx, Gunicorn
+   - Могу запустить Django прокет на хостинге или сервере
 + Как со мной связаться: [![Telegram Badge](https://img.shields.io/badge/-SoulStalk3r-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/SoulStalk3r) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:almazpython@gmail.com)
 
 ---
@@ -50,7 +52,7 @@
 
 ---
 ### Сертификаты
-
+- Нетология: [Django. Создание функциональных веб-приложений]()
 - Нетология: [Python-разработка для начинающих](https://github.com/SoulStalker/SoulStalker/blob/15580a3fae59d822430146dc5c282c0ef5176093/nl_python.pdf)
 - Степик: 
   + [Инди-курс программирования на Python](https://github.com/SoulStalker/SoulStalker/blob/b42e00c5d999a7a666f70f4e27b551d229768a4d/py_indie.pdf)

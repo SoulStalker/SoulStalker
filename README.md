@@ -4,7 +4,7 @@
 Я разработчик на Python
 ---------------------
 
-Мой стек Linux, Windows, Bash, Python, Django, PostgreSQL, Git
+Мой стек Python, Django, PostgreSQL, Git, Nginx, Gunicorn, Linux, Windows, Bash
 
 Я недавно закончил курс обучениия на Python разработчика, до этого работал в качестве системного администратора.
 В данный момент пишу небольшие проекты у себя на работе и для саморазвития. 

@@ -15,7 +15,6 @@
   + [Дипломный проект](https://github.com/SoulStalker/DM_VKinder)
   + [Рабочий проект. Бот для отчетов по выручке касс](https://github.com/SoulStalker/set_mate)
   + [Рабочий проект. Скорость работы кассиров](https://github.com/SoulStalker/RetailSpeedCheck)
-  + [Рабочий проект. Скорость работы кассиров. перенеделан на Django для регулярного пользования](https://github.com/SoulStalker/WebSetSpeed)
 - SQL, SQLAlchemy, PosrgreSQL.
   + [Итоговая работа по базам данных](https://github.com/SoulStalker/nl_sqla_hw)
 - HTML, CSS.
@@ -23,6 +22,7 @@
   + [Итоговая работа по верстке](https://github.com/SoulStalker/noemi_blog)
 + Django
   - [Домшние задания по Django](https://github.com/SoulStalker/dj_homework/tree/video)
+  - [Рабочий проект. Скорость работы кассиров. перенеделан на Django для регулярного пользования](https://github.com/SoulStalker/WebSetSpeed)
 + Nginx, Gunicorn
    - Могу запустить Django проект на хостинге или сервере
 + Как со мной связаться: [![Telegram Badge](https://img.shields.io/badge/-SoulStalk3r-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/SoulStalk3r) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:almazpython@gmail.com)

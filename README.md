@@ -52,7 +52,7 @@
 
 ---
 ### Сертификаты
-- Нетология: [Django. Создание функциональных веб-приложений]()
+- Нетология: [Django. Создание функциональных веб-приложений]([nl_django.pdf](https://github.com/SoulStalker/SoulStalker/blob/main/nl_django.pdf))
 - Нетология: [Python-разработка для начинающих](https://github.com/SoulStalker/SoulStalker/blob/15580a3fae59d822430146dc5c282c0ef5176093/nl_python.pdf)
 - Степик: 
   + [Инди-курс программирования на Python](https://github.com/SoulStalker/SoulStalker/blob/b42e00c5d999a7a666f70f4e27b551d229768a4d/py_indie.pdf)

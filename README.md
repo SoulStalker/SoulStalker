@@ -12,10 +12,10 @@
 ### Что я умею делать:
 
 - Язык программирования Python.
-  + [Дипломный проект](https://github.com/SoulStalker/DM_VKinder)
   + [Рабочий проект. Бот для отчетов по выручке касс](https://github.com/SoulStalker/set_mate)
   + [Рабочий проект. Скорость работы кассиров](https://github.com/SoulStalker/RetailSpeedCheck)
   + [Рабочий проект. Отчет в по заявкам из ОТРС](https://github.com/SoulStalker/otrs_reports)
+  + [Дипломный проект](https://github.com/SoulStalker/DM_VKinder)
 - SQL, SQLAlchemy, PosrgreSQL.
   + [Итоговая работа по базам данных](https://github.com/SoulStalker/nl_sqla_hw)
 - HTML, CSS.

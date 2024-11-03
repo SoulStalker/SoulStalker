@@ -52,6 +52,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="postgresql" alt="postgresql" width="40" height="40"/>&nbsp
   <img src="https://github.com/SoulStalker/SoulStalker/blob/394615a20842390b02dbc63047bfd434bbdb2958/Daco_2081416.png" title="django" alt="django" width="40" height="40"/>&nbsp
   <img src="https://github.com/SoulStalker/SoulStalker/blob/main/nginx.svg" title="nginx" alt="nginx" width="40" height="40"/>&nbsp
+  <img src="https://github.com/SoulStalker/SoulStalker/blob/main/docker-logo-svgrepo-com.svg" title="docker" alt="docker" width="40" height="40"/>&nbsp
 </div>
 
 ---

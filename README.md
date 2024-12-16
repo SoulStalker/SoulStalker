@@ -1,81 +1,76 @@
-Привет, меня зовут Алмаз Галимов
-==============================
+Привет! Я Алмаз Галимов
+=======================
 
-Я разработчик на Python
----------------------
+Backend-разработчик с опытом работы в DevOps.
+---------------------------------------------------------
 
-Мой стек Python, Django, PostgreSQL, Git, Nginx, Gunicorn, Linux, Windows, Bash
+Мой профессиональный стек: **Python, Django, FastAPI, PostgreSQL, Redis, Docker, Nginx, Gunicorn, Celery**.
 
-Я недавно закончил курс обучениия на Python разработчика, до этого работал в качестве системного администратора.
-В данный момент пишу небольшие проекты у себя на работе и для саморазвития. 
+Я обладаю опытом разработки сложных серверных приложений, проектирования API и оптимизации производительности. В прошлом работал системным администратором, что позволяет мне лучше понимать инфраструктуру и DevOps-процессы.
 
-### Что я умею делать:
-
-- Язык программирования Python.
-  + [Рабочий проект. Бот для отчетов по выручке касс](https://github.com/SoulStalker/set_mate)
-  + [Рабочий проект. Скорость работы кассиров](https://github.com/SoulStalker/RetailSpeedCheck)
-  + [Рабочий проект. Отчет в по заявкам из ОТРС](https://github.com/SoulStalker/otrs_reports)
-  + [Рабочий проект. Телеграм бот, помошник дежурному сисадмину](https://github.com/SoulStalker/everyday_helper_bot)
-  + [Пет проект. Телеграм бот. Трекер задач](https://github.com/SoulStalker/ShinyTrackerBot)
-  + [Дипломный проект](https://github.com/SoulStalker/DM_VKinder)
-- SQL, SQLAlchemy, PosrgreSQL.
-  + [Итоговая работа по базам данных](https://github.com/SoulStalker/nl_sqla_hw)
-- HTML, CSS.
-  + [Учебный проект по основам HTML](https://github.com/SoulStalker/Houston)
-  + [Итоговая работа по верстке](https://github.com/SoulStalker/noemi_blog)
-+ Django
-  - [Домшние задания по Django](https://github.com/SoulStalker/dj_homework/tree/video)
-  - [Рабочий проект. Скорость работы кассиров. перенеделан на Django для регулярного пользования](https://github.com/SoulStalker/WebSetSpeed)
-+ Nginx, Gunicorn
-   - Могу запустить Django проект на хостинге или сервере
-+ Как со мной связаться: [![Telegram Badge](https://img.shields.io/badge/-SoulStalk3r-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/SoulStalk3r) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:almazpython@gmail.com)
+Постоянно развиваюсь, изучаю новые технологии и решаю интересные задачи, как в команде, так и индивидуально.
 
 ---
-### 🤝 Социальные сети:
 
-  <div id="badges">
-    <a href="https://www.linkedin.com/in/almaz-galimov-2b8abb223/" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
-    </a>
-    <a href="https://vk.com/soulsta1ker" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK Badge"/>
-    </a>
-  </div>
-  
----
+### 💻 Профессиональные проекты:
 
-### 💻 Мой стек:
+- **[WebSetSpeed](https://github.com/SoulStalker/WebSetSpeed)**  
+  Перенос приложения для измерения скорости работы кассиров на Django с регулярным использованием в компании.  
+  **Технологии:** Django, PostgreSQL, Docker, Redis.
 
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="python" alt="python" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="postgresql" alt="postgresql" width="40" height="40"/>&nbsp
-  <img src="https://github.com/SoulStalker/SoulStalker/blob/394615a20842390b02dbc63047bfd434bbdb2958/Daco_2081416.png" title="django" alt="django" width="40" height="40"/>&nbsp
-  <img src="https://github.com/SoulStalker/SoulStalker/blob/main/nginx.svg" title="nginx" alt="nginx" width="40" height="40"/>&nbsp
-  <img src="https://github.com/SoulStalker/SoulStalker/blob/main/docker-logo-svgrepo-com.svg" title="docker" alt="docker" width="40" height="40"/>&nbsp
-</div>
+- **[everyday_helper_bot](https://github.com/SoulStalker/everyday_helper_bot)**  
+  Telegram-бот, помощник дежурного системного администратора.  
+  **Технологии:** Python, Aiogram, JSON, Docker.
+
+- **[RetailSpeedCheck](https://github.com/SoulStalker/RetailSpeedCheck)**  
+  Автоматизация отчета о скорости работы кассиров.  
+  **Технологии:** Python, SQL, Pandas.
 
 ---
-### Сертификаты
+
+### 🚀 В процессе разработки:
+
+- Проект по реализации чистой архитектуры на Django. **Проект [SUP](https://github.com/Synt4xL4b/sup-backend-2) выполняемый в клубе веб разработки
+- Изучение FastAPI и работа с микросервисами.
+- Освоение Kubernetes и масштабируемых решений.
+
+---
+
+### 🛠️ Мой стек технологий:
+
+- **Языки программирования:** Python, Bash.
+- **Веб-фреймворки:** Django, FastAPI.
+- **Базы данных:** PostgreSQL, Redis, SQLAlchemy.
+- **Инфраструктура:** Docker, Nginx, Gunicorn, Celery.
+- **Инструменты:** Git, Linux, VSCode.
+- **Разработка API:** REST, WebSocket.
+
+---
+
+### 🏆 Достижения:
+
+- Оптимизировал приложение для отчетов, сократив время обработки данных на 40%.
+- Разработал и внедрил Telegram-ботов, используемых ежедневно в компании.
+- Перенес рабочие проекты на Docker для удобства развертывания.
+- Участвовал в проектировании сложных баз данных для внутренних нужд компании.
+
+---
+
+### 🥇 Сертификаты:
+
 - Нетология: [Django. Создание функциональных веб-приложений](https://github.com/SoulStalker/SoulStalker/blob/main/nl_django.pdf)
 - Нетология: [Python-разработка для начинающих](https://github.com/SoulStalker/SoulStalker/blob/15580a3fae59d822430146dc5c282c0ef5176093/nl_python.pdf)
-- Степик: 
+- Степик:
   + [Инди-курс программирования на Python](https://github.com/SoulStalker/SoulStalker/blob/b42e00c5d999a7a666f70f4e27b551d229768a4d/py_indie.pdf)
-  + [Поколоение Python: курс для начинающих](https://github.com/SoulStalker/SoulStalker/blob/b42e00c5d999a7a666f70f4e27b551d229768a4d/pygen_0.pdf)
+  + [Поколение Python: курс для начинающих](https://github.com/SoulStalker/SoulStalker/blob/b42e00c5d999a7a666f70f4e27b551d229768a4d/pygen_0.pdf)
   + [Поколение Python: курс для продвинутых](https://github.com/SoulStalker/SoulStalker/blob/b42e00c5d999a7a666f70f4e27b551d229768a4d/pygen_1.pdf)
   + [Проектирование баз данных](https://github.com/SoulStalker/SoulStalker/blob/b42e00c5d999a7a666f70f4e27b551d229768a4d/sql_project.pdf)
 
-### ⚙️ GitHub статистика:
+---
 
-<table>
-  <tr>
-    <td>
-      <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=SoulStalker&theme=dark&background=000000" alt="webDev's Github stats" />
-    </td>
-    <td>
-      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SoulStalker&layout=compact&theme=vision-friendly-dark" />
-    </td>
-  </tr>
-</table>
+### 🎯 Интересы и хобби:
+- Разработка на Python и архитектура ПО.
+- Работа с Docker и Kubernetes.
+- Изучение новых языков программирования (Go).
+- Спорт, саморазвитие, изучение иностранных языков.
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=SoulStalker)

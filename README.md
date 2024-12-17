@@ -16,7 +16,7 @@ Backend-разработчик с опытом работы в DevOps.
 
 - **[WebSetSpeed](https://github.com/SoulStalker/WebSetSpeed)**  
   Перенос приложения для измерения скорости работы кассиров на Django с регулярным использованием в компании.  
-  **Технологии:** Django, PostgreSQL, Docker, Redis.
+  **Технологии:** Django, PostgreSQL, Docker
 
 - **[everyday_helper_bot](https://github.com/SoulStalker/everyday_helper_bot)**  
   Telegram-бот, помощник дежурного системного администратора.  
@@ -24,7 +24,7 @@ Backend-разработчик с опытом работы в DevOps.
 
 - **[RetailSpeedCheck](https://github.com/SoulStalker/RetailSpeedCheck)**  
   Автоматизация отчета о скорости работы кассиров.  
-  **Технологии:** Python, SQL, Pandas.
+  **Технологии:** Python, SQL.
 
 ---
 
@@ -42,7 +42,7 @@ Backend-разработчик с опытом работы в DevOps.
 - **Веб-фреймворки:** Django, FastAPI.
 - **Базы данных:** PostgreSQL, Redis, SQLAlchemy.
 - **Инфраструктура:** Docker, Nginx, Gunicorn, Celery.
-- **Инструменты:** Git, Linux, VSCode.
+- **Инструменты:** Git, Linux, Pycharm.
 - **Разработка API:** REST, WebSocket.
 
 ---

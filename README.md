@@ -4,11 +4,11 @@
 Backend-разработчик с опытом работы в DevOps.
 ---------------------------------------------------------
 
-Мой профессиональный стек: **Python, Django, FastAPI, PostgreSQL, Redis, Docker, Nginx, Gunicorn, Celery**.
+🚀 Мой профессиональный стек: **Python, Django, FastAPI, PostgreSQL, Redis, Docker, Nginx, Gunicorn, Celery**.
 
-Я обладаю опытом разработки сложных серверных приложений, проектирования API и оптимизации производительности. В прошлом работал системным администратором, что позволяет мне лучше понимать инфраструктуру и DevOps-процессы.
+🛠 Я обладаю опытом разработки сложных серверных приложений, проектирования API и оптимизации производительности. В прошлом работал системным администратором, что позволяет мне лучше понимать инфраструктуру и DevOps-процессы.
 
-Постоянно развиваюсь, изучаю новые технологии и решаю интересные задачи, как в команде, так и индивидуально.
+💡 Постоянно развиваюсь, изучаю новые технологии и решаю интересные задачи, как в команде, так и индивидуально. Сейчас изучаю Go
 
 ---
 
@@ -32,6 +32,7 @@ Backend-разработчик с опытом работы в DevOps.
 
 - Проект по реализации чистой архитектуры на Django. Самый масштабный мой проект [SUP](https://github.com/Synt4xL4b/sup-backend-2) выполняемый в клубе веб разработки
 - Изучение FastAPI и работа с микросервисами.
+- Изучение Go.
 - Освоение Kubernetes и масштабируемых решений.
 
 ---
@@ -56,6 +57,14 @@ Backend-разработчик с опытом работы в DevOps.
 
 ---
 
+### 🌐 Контакты для связи:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/almaz-galimov)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:almazpython@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-%230088cc.svg?logo=telegram&logoColor=white)](https://t.me/soulstalk3r)
+
+---
+
 ### 🥇 Сертификаты:
 
 - Нетология: [Django. Создание функциональных веб-приложений](https://github.com/SoulStalker/SoulStalker/blob/main/nl_django.pdf)
@@ -73,4 +82,14 @@ Backend-разработчик с опытом работы в DevOps.
 - Работа с Docker и Kubernetes.
 - Изучение новых языков программирования (Go).
 - Спорт, саморазвитие, изучение иностранных языков.
+
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=SoulStalker&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=SoulStalker&theme=transparent&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SoulStalker&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=SoulStalker&theme=shades-of-purple&no-frame=false&no-bg=true&margin-w=4)
 

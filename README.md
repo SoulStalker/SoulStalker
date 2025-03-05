@@ -19,7 +19,7 @@ Backend-разработчик с опытом работы в DevOps.
   **Технологии:** Django, PostgreSQL, Celery, Redis, Docker
 
 - **[WebSetSpeed](https://github.com/SoulStalker/WebSetSpeed)**  
-  Приложениу для измерения скорости работы кассиров.
+  Веб приложение для вывода скорости работы кассиров.
    
   **Технологии:** Django, PostgreSQL, Docker
 
@@ -45,7 +45,7 @@ Backend-разработчик с опытом работы в DevOps.
 
 - **Языки программирования:** Python, Go.
 - **Веб-фреймворки:** Django, FastAPI.
-- **Базы данных:** PostgreSQL, Redis, SQLAlchemy.
+- **Базы данных:** PostgreSQL, Redis, SQLAlchemy, Gorm
 - **Инфраструктура:** Docker, Nginx, Gunicorn, Celery.
 - **Инструменты:** Git, Linux.
 - **Разработка API:** REST, WebSocket.

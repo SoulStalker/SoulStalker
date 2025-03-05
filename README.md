@@ -88,7 +88,7 @@ Backend-разработчик с опытом работы в DevOps.
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=SoulStalker&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=SoulStalker&theme=transparent&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SoulStalker&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SoulStalker&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact&hide=javascript,html,css)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=SoulStalker&theme=shades-of-purple&no-frame=false&no-bg=true&margin-w=4)

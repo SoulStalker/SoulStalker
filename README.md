@@ -14,7 +14,7 @@ Backend-разработчик с опытом работы в DevOps.
 
 ### 💻  Проекты:
 
-- **[CogniTask](https://github.com/SoulStalker/CogniTask)
+- **[CogniTask](https://github.com/SoulStalker/CogniTask)**
   Телеграм бот Таск-менеджер
   **Технологии:** Go, Telebot, Sqlite, Redis, Gorm, Cron
 
